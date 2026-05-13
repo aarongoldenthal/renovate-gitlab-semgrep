@@ -1,1 +1,1 @@
-FROM registry.gitlab.com/gitlab-org/security-products/analyzers/semgrep:5.24.0
+FROM registry.gitlab.com/gitlab-org/security-products/analyzers/semgrep:7.0.0
